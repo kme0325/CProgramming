@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\..\\..\\kusC\\Project1\\Project1.sln",
+    "projects": [
+      "Project1\\Project1.vcxproj"
+    ]
+  }
+}
